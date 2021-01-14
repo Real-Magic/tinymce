@@ -13,6 +13,6 @@ tsconfig.tsbuildinfo
 modules/*/LICENSE.TXT
 
 /dist
-/js
+# /js
 /tmp
 /.idea
